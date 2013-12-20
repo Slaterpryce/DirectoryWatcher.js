@@ -1,0 +1,10 @@
+{
+  "name": "DirectoryWatcher.js",
+  "version": "0.0.1",
+  "description": "DirectoryWatcher.js",
+  "main": "app.js",
+  "author": {
+    "name": "George H. Slaterpryce III",
+    "email": ""
+  }
+}
