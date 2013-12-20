@@ -18,6 +18,8 @@
    License: CPOL : The Code Project Open License 1.02
             http://www.codeproject.com/info/cpol10.aspx
 
+   Copyright: (c) 2013 Slaterpryce Intellect Corp
+
    If you modify this code please add your name and what was modified to this
    header, as well as the date modified.
 
