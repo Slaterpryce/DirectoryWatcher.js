@@ -1,3 +1,27 @@
+/*
+ ===========================================================================
+
+   A Node.js application to show an example use of the DirectoryWatcher.js
+   Module
+
+   Current Version: 0.0.1
+                    December 19 2013 
+
+   Author(s): George H. Slaterpryce III
+   License: CPOL : The Code Project Open License 1.02
+            http://www.codeproject.com/info/cpol10.aspx
+
+   Copyright: (c) 2013 Slaterpryce Intellect Corp
+
+   If you modify this code please add your name and what was modified to this
+   header, as well as the date modified.
+
+   Target Node.js version: v0.10.22
+
+ ===========================================================================
+*/
+
+// Imports / Requires
 var dirwatch = require("./modules/DirectoryWatcher.js");
 
 // Create a monitor object that will watch a directory
